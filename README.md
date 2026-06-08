@@ -12,7 +12,7 @@ This repository contains the Mandarin audio stimuli and experimental materials u
 The audio files are named according to the following system:
 # Mandarin audio stimuli
 
-This repository contains the Mandarin audio stimuli and the corresponding experimental materials used in the forced-choice experiment reported in the thesis *Questions in Yuancheng--Zhongxin Hakka*.
+This repository contains the Mandarin audio stimuli and the corresponding experimental materials used in the forced-choice experiment reported in the thesis *Questions in Yuancheng-Zhongxin Hakka*.
 
 Although the repository is named `mandarin_audio`, it also includes the spreadsheet and CSV files used for the Mandarin experiment.
 
