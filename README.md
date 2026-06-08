@@ -40,7 +40,8 @@ The audio files are named according to the following system:
 - `Topic` = topic condition
 - `TopicM` = marked topic condition
 - `Preference` = preference question in filler items
-- `Left` / `Right` = answer position in filler items
+- `CommonKnowledge` = Common Knowledge question in filler items
+- `Left` / `Right` = answer position in filler items 
 
 For example:
 
@@ -50,7 +51,9 @@ For example:
 - `MAN-1-A-Focus.wav` refers to Mandarin item 1, answer stimulus, focus condition.
 - `MAN-1-A-Topic.wav` refers to Mandarin item 1, answer stimulus, topic condition.
 - `MAN-F8-Q-Preference.wav` refers to Mandarin filler item 8, preference question.
-- `MAN-F8-A-Left.wav` and `MAN-F8-A-Right.wav` refer to the left answer option for filler item 8.
+- `MAN-F8-Q-Preference.wav` refers to Mandarin filler item 8, preference question.
+- `MAN-F15-Q-CommonKnowledge.wav` refers to Mandarin filler item 15, Common Knowledge question.
+- `MAN-F8-A-Right.wav` refer to the left answer option for filler item 8.
 - `MAN-P1-Q-Focus.wav` refers to Mandarin practice item 1, question stimulus, focus condition.
 
 ## Audio format
